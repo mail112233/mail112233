@@ -9,7 +9,8 @@
     text-transform: uppercase;
 }
 .galeri {
-    font-size: xx-large;
+    font-size: 40px;
+    font-weight: 400;
     text-transform: uppercase;
 }
 
@@ -20,7 +21,7 @@
 
 caption {
     text-transform: uppercase;
-    font-size: 40px;
+    font-size: 20px;
     font-weight: 500;
     background-color: #31304D;
 
