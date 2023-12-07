@@ -5,7 +5,8 @@ body{
 
 
 .hero {
-    background-image: url(img/bg.jpg);
+    background-color: #2E4F4F;
+    /* background-image: url(img/bg.jpg); */
     background-size: cover;
 }
 
